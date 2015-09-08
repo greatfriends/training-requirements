@@ -1,7 +1,4 @@
-# Building AngularJS Application course
-
-**Course Information and Course Outline:**  
-Please click to http://next.greatfriends.biz/training/course/GF235
+# Angular and TypeScript course
 
 Please installed the following software:
 
