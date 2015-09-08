@@ -1,7 +1,7 @@
 # TDD Workshop course
 
 **Course Information and Course Outline:**  
-Please click to http://next.greatfriends.biz/training/GF505
+Please click to http://next.greatfriends.biz/training/course/GF505
 
 Please installed the following software:
 
