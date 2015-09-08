@@ -54,14 +54,18 @@ http://www.nodejs.org
 
 เมื่อติดตั้งเสร็จแล้วให้ทดสอบใน Command Prompt ดังนี้
 
-**> npm -v**  
+```
+> npm -v  
 2.11.2
+```
 
 และทดสอบติดตั้ง Node App ดังนี้
 
-**> npm install -g bower**  
-**> npm install -g typescript**  
-**> npm install -g tsd**
+```
+> npm install -g bower
+> npm install -g typescript  
+> npm install -g tsd
+```
 
 ซึ่งควรจะติดตั้งได้สำเร็จดี ไม่มี error ใดๆ
 
