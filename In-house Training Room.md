@@ -1,6 +1,7 @@
 # In the Training Room
 
 Things in the room: 
+
 1. Projector and screen
 - Computer for attendees
 - Internet connection
