@@ -82,16 +82,20 @@ http://www.git-scm.com
  
 เมื่อติดตั้งเสร็จแล้วให้ทดสอบใน Command Prompt ดังนี้
 
-**> git --version**  
-git version 2.5.1.windows.1
- 
+  ```
+  > git --version  
+  git version 2.5.1.windows.1
+  ```
+
 เนื่องจากว่า bower ต้องการใช้ git ดังนั้น
 การทดสอบจะใช้ bower ติดตั้ง component ดู เช่น
 
-**> cd \\ **  
-**> md test**  
-**> cd test**  
-**> bower install bootstrap**  
+  ```
+  > cd \
+  > md test  
+  > cd test  
+  > bower install bootstrap  
+  ```
 
 ถ้าติดตั้งสำเร็จจะได้โฟลเดอร์ชื่อ *bower_components* 
 และมีโฟลเดอร์ *bootstrap* อยู่ข้างใน
