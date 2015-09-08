@@ -69,8 +69,9 @@ git version 2.5.1.windows.1
  
 เนื่องจากว่า bower ต้องการใช้ git ดังนั้น
 การทดสอบจะใช้ bower ติดตั้ง component ดู เช่น
+ 
 
-**> cd \ **  
+**> cd \\ **  
 **> md test**  
 **> cd test**  
 **> bower install bootstrap**  

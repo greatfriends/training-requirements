@@ -1,7 +1,8 @@
-# Room and Software Requirements
+## Training room 
 
-For in-house training class
+1. [Training room preparation](/TrainingRoom.md) 
 
-1. [Training Room](/TrainingRoom.md) 
-- [TDD Workshop course](/TddWorkshopCourse.md)
-- [Angular and TypeScript course](/AngularAndTypeScriptCourse.md)
+## Courses
+
+1. [TDD Workshop course](/TddWorkshopCourse.md)
+-  [Angular and TypeScript course](/AngularAndTypeScriptCourse.md)
