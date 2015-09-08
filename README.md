@@ -2,5 +2,6 @@
 
 For in-house training class
 
-1. [Training Room](/TrainingRoom.md/) 
+1. [Training Room](/TrainingRoom.md) 
 - [TDD Workshop course](/TddWorkshopCourse.md)
+- [Angular and TypeScript course](/AngularAndTypeScriptCourse.md)
