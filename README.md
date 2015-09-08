@@ -1,2 +1,5 @@
-# training-requirements
-In-house training preparation list
+# Room and Software Requirements
+
+For in-house training class
+
+1. [Training Room](/TrainingRoom.md/) 
