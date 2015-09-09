@@ -8,7 +8,7 @@ Please installed the following software:
 1. Visual Paradigm for UML
 -  Google Chrome
 
-## 1. Visual Paradigm for UML
+## 1. Visual Paradigm
 
 http://www.visual-paradigm.com/download/
   
