@@ -11,7 +11,10 @@ Please installed the following software:
 -  Google Chrome
 -  NodeJS
 -  Git Source Control
--  GitHub account
+
+**note:** ข้อ 5-6 เป็น *optional* ถ้าเตรียมไว้จะได้ศึกษา
+และฝึกใช้เครื่องมือที่นักพัฒนาเว็บรุ่นใหม่นิยมใช้กัน
+
 
 ## 1. Microsoft Visual Studio
 
@@ -106,9 +109,3 @@ http://www.git-scm.com
 
 แต่ถ้าไม่สามารถติดตั้งได้ (เช่นติด proxy ของบริษัท)
 ก็ไม่เป็นไร เราสามารถใช้ npm แทน bower ได้
-
-## 7. GitHub account
-
-https://github.com
-
-ถ้ายังไม่เคยสมัครสมาชิกที่นี่ ให้สมัครไว้ด้วยครับ
