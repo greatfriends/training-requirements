@@ -5,7 +5,7 @@ Please click to http://next.greatfriends.biz/training/course/GF225
 
 Please installed the following software:
 
-1. Microsoft Visual Studio (latest as possible)
+1. Microsoft Visual Studio 2015 Update 3
 -  Microsoft SQL Server Express Edition with Management Studio (latest as possible)
 -  Microsoft Visual Studio Code (latest as possible)
 -  Google Chrome
@@ -16,14 +16,14 @@ Please installed the following software:
 และฝึกใช้เครื่องมือที่นักพัฒนาเว็บรุ่นใหม่นิยมใช้กัน
 
 
-## 1. Microsoft Visual Studio
-
-ไม่ควรใช้ Express Edition
+## 1. Microsoft Visual Studio 2015 Update 3
+Visual Studio 2015 เป็นเวอร์ชั่นล่าสุดขณะนี้ 
+ในกรณีที่ต้องการใช้เวอร์ชั่นต่ำกว่าในการเรียน กรุณาแจ้งล่วงหน้า
  
 ## 2. Microsoft SQL Server Express Edition with Management Studio
 
 แนะนำ Express Edition สำหรับติดตั้งในเครื่องผู้เรียนแต่ละคน
-แต่ถ้าต้องการใช้ Edition ใหญ่กว่าก็ใช้ได้ 
+แต่ถ้าต้องการใช้ Edition ใหญ่กว่าก็ใช้ได้ (ใช้เวอร์ชั่น 2014 ขึ้นไป)
 
 การตรวจสอบว่าได้ติดตั้งหรือยัง 
 ให้เปิด `Control Panel` > `Administrative Tools` > `Services`
@@ -47,7 +47,7 @@ with built-in git and debugging support.
 
 อาจจะติดตั้ง Extension ของ Chrome เหล่านี้ไว้ด้วย
 - JSON Viewer
-- Postman
+- Postman (www.getpostman.com)
 
 ## 5. Node.js
 
