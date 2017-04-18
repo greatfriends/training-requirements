@@ -1,10 +1,11 @@
 ## Training room 
 
-1. [Training room preparation](/TrainingRoom.md) 
+* [Training room preparation](/TrainingRoom.md) 
 
 ## Software requirements
 
 1. [TDD Workshop course](/TddWorkshopCourse.md)
--  [Angular and TypeScript course](/AngularAndTypeScriptCourse.md)
--  [Object-Oriented System Analysis and Design (OOAD) course](/ooad-course.md)
--  [ASP.NET MVC course](/aspnet-mvc-course.md) 
+2. [Angular and TypeScript course](/AngularAndTypeScriptCourse.md)
+3. [Object-Oriented System Analysis and Design (OOAD) course](/ooad-course.md)
+4. [ASP.NET MVC course](/aspnet-mvc-course.md) 
+5. [Programming Visual C#](/programming-csharp.md)
