@@ -1,4 +1,4 @@
-# ASP.NET MVC course
+# ASP.NET MVC และ ASP.NET Core MVC Course
 
 **Course Information and Course Outline:**  
 Please click to http://next.greatfriends.biz/training/course/GF225 
@@ -6,11 +6,11 @@ Please click to http://next.greatfriends.biz/training/course/GF225
 Please installed the following software:
 
 1. Microsoft Visual Studio 2017 Community Edition
--  Microsoft SQL Server Express Edition with Management Studio (latest as possible)
--  Microsoft Visual Studio Code (latest as possible)
--  Google Chrome
--  NodeJS
--  Git Source Control
+2.  Microsoft SQL Server Express Edition with Management Studio (latest as possible)
+3.  Microsoft Visual Studio Code (latest as possible)
+4.  Google Chrome
+5.  NodeJS
+6.  Git Source Control
 
 **note:** ข้อ 5-6 เป็น *optional* ถ้าเตรียมไว้จะได้ศึกษา
 และฝึกใช้เครื่องมือที่นักพัฒนาเว็บรุ่นใหม่นิยมใช้กัน
