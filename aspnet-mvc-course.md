@@ -5,7 +5,7 @@ Please click to http://next.greatfriends.biz/training/course/GF225
 
 Please installed the following software:
 
-1. Microsoft Visual Studio 2015 Update 3
+1. Microsoft Visual Studio 2017 Community Edition
 -  Microsoft SQL Server Express Edition with Management Studio (latest as possible)
 -  Microsoft Visual Studio Code (latest as possible)
 -  Google Chrome
@@ -16,10 +16,20 @@ Please installed the following software:
 และฝึกใช้เครื่องมือที่นักพัฒนาเว็บรุ่นใหม่นิยมใช้กัน
 
 
-## 1. Microsoft Visual Studio 2015 Update 3
-Visual Studio 2015 เป็นเวอร์ชั่นล่าสุดขณะนี้ 
-ในกรณีที่ต้องการใช้เวอร์ชั่นต่ำกว่าในการเรียน กรุณาแจ้งล่วงหน้า
- 
+## 1. Microsoft Visual Studio 2017 Community Edition
+ดาวน์โหลดได้ที่ http://www.visualstudio.com
+
+![image](https://cloud.githubusercontent.com/assets/344784/26436012/72363c90-413d-11e7-8894-bd5bea9724cc.png)
+
+
+ให้เลือก Workloads อย่างน้อยดังนี้  
+![image](https://cloud.githubusercontent.com/assets/344784/26435915/eff35bfa-413c-11e7-85e9-b52cbda474ed.png)  
+![image](https://cloud.githubusercontent.com/assets/344784/26435940/0e7090ac-413d-11e7-9b3d-23f5325e81fe.png)  
+
+สำหรับหลักสูตร ASP.NET Core MVC ให้เลือกตัวเลือกนี้ด้วย  
+![image](https://cloud.githubusercontent.com/assets/344784/26435975/384ba826-413d-11e7-9bf9-e50105ef598f.png)  
+
+
 ## 2. Microsoft SQL Server Express Edition with Management Studio
 
 แนะนำ Express Edition สำหรับติดตั้งในเครื่องผู้เรียนแต่ละคน
