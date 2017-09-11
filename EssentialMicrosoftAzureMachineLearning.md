@@ -2,7 +2,7 @@
 
 **Course Information and Course Outline:**  
 Please click to http://next.greatfriends.biz/training/course/GF285
-and https://github.com/laploy/ML-Files/blob/master/Intro%20ML%20course.pdf
+(More information in [PDF format](https://github.com/laploy/ML-Files/blob/master/Intro%20ML%20course.pdf))
 
 Attendees please installed the following software:
 
