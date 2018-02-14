@@ -1,6 +1,7 @@
-## Course Azure Machine Learning For Programmers
+## Azure Machine Learning For Programmers Course
 
-Please install the following sofewares:
+Please install the following softwares:
+
 - Microsoft Visual Studio 2017 Community Edition (หรือใหม่กว่า)
 - Microsoft Office (เวอร์ชั่นใดก็ได้ แต่ไม่ควรเก่ามาก)
 - Microsoft Windows 10 ล่าสุด หรือเก่าไม่เกิน 8
