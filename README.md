@@ -11,3 +11,4 @@
 5. [Essential ASP.NET Core MVC Course](/ASPNET%20Core%20MVC.md)
 6. [Programming Visual C#](/programming-csharp.md)
 7. [Essential Microsoft Azure Machine Learning](/EssentialMicrosoftAzureMachineLearning.md)
+8. **[Advanced ASP.NET Core API and MVC](/ASPNET%20Core%20MVC.md) // * * * เหมือนคอร์ส MVC Core**
