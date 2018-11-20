@@ -77,13 +77,15 @@ http://www.nodejs.org
 00.00.00
 ```
 
-และติดตั้ง Node App ดังนี้
+และทดสอบติดตั้ง Node App ดังนี้
 
 ```
-> npm install -g bower
+> npm init -y
+> npm install qrcode -g
+> qrcode hello
 ```
 
-ซึ่งควรจะติดตั้งได้สำเร็จดี ไม่มี error ใดๆ
+ซึ่งควรจะติดตั้งและได้ qrcode สำเร็จดี ไม่มี error ใดๆ
 
 
 ## 6. Git Source Control
