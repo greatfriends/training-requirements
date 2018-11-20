@@ -1,19 +1,27 @@
-# ASP.NET Core MVC Course
+## Essential ASP.NET Core MVC Course 
+## and Advanced ASP.NET Core API and MVC Course
 
 **Course Information and Course Outline:**  
 Please click to http://next.greatfriends.biz/training/course/GF225c  
+and http://next.greatfriends.biz/training/course/G325  
 
 Please installed the following software:
 
+0. Microsoft .NET Core SDK
 1. Microsoft Visual Studio 2017 Community Edition
 2.  Microsoft SQL Server Express Edition with Management Studio (latest as possible)
-3.  Microsoft Visual Studio Code (latest as possible)
+3.  Microsoft Visual Studio Code  
 4.  Google Chrome
-5.  NodeJS and Bower
-6.  Git Source Control
-7. Make sure that you have already installed latest version of .NET Core SDK 
+5.  NodeJS (for npm)
+6.  Git Source Control (optional)
 
-## 1. Microsoft Visual Studio 2017 Community Edition
+## 0. Microsoft .NET Core SDK (**Latest version as possible**)
+ดาวน์โหลดที่ https://www.microsoft.com/net/download
+
+![image](https://user-images.githubusercontent.com/344784/48762012-a8938300-ecdc-11e8-950e-7b56d6a9087b.png)
+
+
+## 1. Microsoft Visual Studio 2017 Community Edition (**Latest version as possible**)
 ดาวน์โหลดได้ที่ http://www.visualstudio.com
 
 ![image](https://cloud.githubusercontent.com/assets/344784/26436012/72363c90-413d-11e7-8894-bd5bea9724cc.png)
@@ -27,7 +35,7 @@ Please installed the following software:
 ![image](https://cloud.githubusercontent.com/assets/344784/26435975/384ba826-413d-11e7-9bf9-e50105ef598f.png)  
 
 
-## 2. Microsoft SQL Server Express Edition with Management Studio
+## 2. Microsoft SQL Server Express Edition with Management Studio (**Latest version as possible**)
 
 แนะนำ Express Edition สำหรับติดตั้งในเครื่องผู้เรียนแต่ละคน
 แต่ถ้าต้องการใช้ Edition ใหญ่กว่าก็ใช้ได้ (ใช้เวอร์ชั่น 2014 ขึ้นไป)
@@ -38,7 +46,7 @@ Please installed the following software:
 
 ผู้ใช้ต้องมีสิทธิ์ *CREATE DATABASE*
 
-## 3. Microsoft Visual Studio Code
+## 3. Microsoft Visual Studio Code (**Latest version as possible**)
 http://code.visualstudio.com
 
 Free cross-platform modern code editor 
@@ -56,7 +64,7 @@ with built-in git and debugging support.
 - JSON Viewer
 - Postman (www.getpostman.com)
 
-## 5. Node.js and Bower
+## 5. Node.js  
 
 Node.js is a JavaScript runtime platform.
 
@@ -97,26 +105,4 @@ http://www.git-scm.com
   ```
   > git --version  
   git version 0.0.0.windows.0
-  ```
-
-เนื่องจากว่า bower ต้องการใช้ git ดังนั้น
-การทดสอบจะใช้ bower ติดตั้ง component ดู เช่น
-
-  ```
-  > cd \
-  > md test  
-  > cd test  
-  > bower install bootstrap  
-  ```
-
-ถ้าติดตั้งสำเร็จจะได้โฟลเดอร์ชื่อ *bower_components* 
-และมีโฟลเดอร์ *bootstrap* อยู่ข้างใน
-
-แต่ถ้าไม่สามารถติดตั้งได้ (เช่นติด proxy ของบริษัท)
-ก็ไม่เป็นไร เราสามารถใช้ npm แทน bower ได้
-
-## 7. Make sure that you have already installed latest version of .NET Core SDK 
-
-Link: https://www.microsoft.com/net/download/core#/current/sdk
-
-![image](https://user-images.githubusercontent.com/344784/36188056-0b7a922a-117c-11e8-9e42-95b8149b9808.png)
+  ``` 
