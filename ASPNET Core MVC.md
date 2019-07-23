@@ -8,7 +8,7 @@ and http://next.greatfriends.biz/training/course/G325
 Please installed the following software:
 
 0. Microsoft .NET Core SDK
-1. Microsoft Visual Studio 2017 Community Edition
+1. Microsoft Visual Studio 2019 Community Edition
 2.  Microsoft SQL Server Express Edition with Management Studio (latest as possible)
 3.  Microsoft Visual Studio Code  
 4.  Google Chrome
@@ -21,7 +21,7 @@ Please installed the following software:
 ![image](https://user-images.githubusercontent.com/344784/48762012-a8938300-ecdc-11e8-950e-7b56d6a9087b.png)
 
 
-## 1. Microsoft Visual Studio 2017 Community Edition (**Latest version as possible**)
+## 1. Microsoft Visual Studio 2019 Community Edition (**Latest version as possible**)
 ดาวน์โหลดได้ที่ http://www.visualstudio.com
 
 ![image](https://cloud.githubusercontent.com/assets/344784/26436012/72363c90-413d-11e7-8894-bd5bea9724cc.png)
