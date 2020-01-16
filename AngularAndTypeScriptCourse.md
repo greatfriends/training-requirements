@@ -21,7 +21,7 @@ with built-in git and debugging support.
 หลักสูตรที่เกี่ยวกับเว็บ (ASP.NET, ASP.NET MVC, jQuery, Angular, TypeScript) 
 ใช้ **Developer Tools** เพื่อตรวจสอบ ดีบั๊กโค้ดใน browser Chrome จะสะดวกที่สุด
 
-อาจจะติดตั้ง Extension ของ Chrome เหล่านี้ไว้ด้วย
+ควรติดตั้ง Extension ของ Chrome เหล่านี้ไว้ด้วย
 - JSON Viewer
 - Postman
 
@@ -34,22 +34,26 @@ http://www.nodejs.org
 เมื่อติดตั้งเสร็จแล้วให้ทดสอบใน Command Prompt ดังนี้
 
 ```
+> node -v
+v13.6.0
+
 > npm -v  
-2.11.2
+6.13.4
 ```
 
 และทดสอบติดตั้ง Node App ดังนี้
 
-```
-> npm install -g bower
-> npm install -g typescript  
-> npm install -g tsd
+``` 
+> npm install -g typescript   
+
+> tsc --version
+Version 3.6.4
 ```
 
 ซึ่งควรจะติดตั้งได้สำเร็จดี ไม่มี error ใดๆ
 
 
-## 4. Git Source Control
+## 4. Git Source Control (optional)
 
 `git` is the most popular distributed source control.
 
@@ -67,22 +71,7 @@ http://www.git-scm.com
 
   ```
   > git --version  
-  git version 2.5.1.windows.1
+  git version 2.23.0.windows.1
   ```
-  
-เนื่องจากว่า bower ต้องการใช้ git ดังนั้น
-การทดสอบจะใช้ bower ติดตั้ง component ดู เช่น
-
-  ```
-  > cd \
-  > md test  
-  > cd test  
-  > bower install bootstrap  
-  ```
-
-ถ้าติดตั้งสำเร็จจะได้โฟลเดอร์ชื่อ *bower_components* 
-และมีโฟลเดอร์ *bootstrap* อยู่ข้างใน
-
-แต่ถ้าไม่สามารถติดตั้งได้ (เช่นติด proxy ของบริษัท)
-ก็ไม่เป็นไร เราสามารถใช้ npm แทน bower ได้
+   
  
