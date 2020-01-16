@@ -1,11 +1,11 @@
-# Angular and TypeScript course
+# Essential Angular and TypeScript course
 
 Please installed the following software:
 
 1. Microsoft Visual Studio Code (latest as possible)
--  Google Chrome
--  NodeJS
--  Git Source Control 
+2. Google Chrome
+3. NodeJS
+4. Git Source Control 
 
 ## 1. Microsoft Visual Studio Code
 http://code.visualstudio.com
