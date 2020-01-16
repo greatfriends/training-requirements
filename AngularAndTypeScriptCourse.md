@@ -5,7 +5,8 @@ Please installed the following software:
 1. Microsoft Visual Studio Code (latest as possible)
 2. Google Chrome
 3. NodeJS
-4. Git Source Control 
+4. Angular CLI
+5. Git Source Control (optional)
 
 ## 1. Microsoft Visual Studio Code
 http://code.visualstudio.com
@@ -52,8 +53,28 @@ Version 3.6.4
 
 ซึ่งควรจะติดตั้งได้สำเร็จดี ไม่มี error ใดๆ
 
+## 4. Angular CLI
 
-## 4. Git Source Control (optional)
+``` 
+> npm install @angular/cli -g
+
+> ng version
+
+     _                      _                 ____ _     ___
+    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
+   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
+  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
+ /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
+                |___/
+
+
+Angular CLI: 8.3.23
+Node: 13.6.0
+OS: win32 x64
+...
+```
+
+## 5. Git Source Control (optional)
 
 `git` is the most popular distributed source control.
 
